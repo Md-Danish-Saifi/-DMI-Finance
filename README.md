@@ -1,2 +1,2 @@
-# -DMI-Finance
+# DMI-Finance
 this is  DMI Finance asignment
